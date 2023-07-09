@@ -159,7 +159,7 @@ margin-bottom: 10px;
 
 
 }
-.contact inputs[type="text"], .contact input[type="email"],
+.contact input[type="text"], .contact input[type="email"],
  textarea{
     display: block;
     margin-bottom: 25px;
